@@ -1,0 +1,16 @@
+# сборка
+build/
+*.exe
+*.o
+*.obj
+*.a
+*.dll
+
+# IDE
+.vs/
+.vscode/
+.qtcreator/
+*.user
+
+# черновой проект Qt Creator
+untitled/
